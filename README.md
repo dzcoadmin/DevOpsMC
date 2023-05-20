@@ -19,7 +19,7 @@ The class is designed to be viewed from start to finish in sequence as each modu
 
  - PDF in handout format of slides used
  - Image of the whiteboard created
- - Any other artifacts such as code samples
+ - Any other artifacts such as code samples and may scripts
 
 Additionally, there are many recommended videos to watch for each module which are shown below.
 
